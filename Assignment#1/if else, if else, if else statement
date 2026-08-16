@@ -5,6 +5,7 @@ $grade = 56;
 if ($grade >= 90) 
 {
     echo "wow galing";
+
 } elseif ($grade >= 75) 
 {
     echo "pasang awa";
@@ -13,7 +14,7 @@ if ($grade >= 90)
 {
     echo "yun lang";
 } else {
-    echo "see you next sem!";
+    echo "irreg na";
 }
 
 ?>
