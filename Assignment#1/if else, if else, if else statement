@@ -1,1 +1,19 @@
+<?php
 
+$grade = 56;
+
+if ($grade >= 90) 
+{
+    echo "wow galing";
+} elseif ($grade >= 75) 
+{
+    echo "pasang awa";
+
+} elseif ($grade >= 60) 
+{
+    echo "yun lang";
+} else {
+    echo "see you next sem!";
+}
+
+?>
