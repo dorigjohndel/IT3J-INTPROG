@@ -1,1 +1,14 @@
+<?php
 
+$number = -21;
+
+if ($number > 0)
+
+{
+    echo "the number is positive";
+} else
+{
+    echo "the number is negative or zero";
+}
+
+?>
