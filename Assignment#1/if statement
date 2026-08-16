@@ -5,7 +5,7 @@ $age = 18;
 if ($age >= 18)
 
 {
-    echo "You are teenager";
+    echo "you are teenager";
 }
 
 ?>
