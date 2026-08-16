@@ -1,14 +1,13 @@
 <?php
 
-$number = -21;
+$money = 1;
 
-if ($number > 0)
-
+if ($money >= 50) 
 {
-    echo "the number is positive";
-} else
+    echo "dami pera ah";
+} else 
 {
-    echo "the number is negative or zero";
+    echo "ay poor";
 }
 
 ?>
