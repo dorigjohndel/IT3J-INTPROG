@@ -1,1 +1,23 @@
+<?php
 
+$day = "sabado";
+
+switch ($day) 
+{
+    case "lunes":
+        echo "pasok na naman";
+        break;
+
+    case "martes":
+        echo "tagal mag weekends";
+        break;
+
+    case "sabado":
+        echo "tara gala";
+        break;
+
+    default:
+        echo "bilis ng araw";
+}
+
+?>
