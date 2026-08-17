@@ -7,7 +7,7 @@ if ($money >= 50)
     echo "dami pera ah";
 } else 
 {
-    echo "ay poor";
+    echo "pautang";
 }
 
 ?>
