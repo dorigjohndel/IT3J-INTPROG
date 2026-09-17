@@ -5,6 +5,7 @@ $phpObject = json_decode($jsonString);
 
 $phpArray = json_decode($jsonString, true);
 
-echo "Object: " . $phpObject->name . "<br>";
+echo "Object: " . $phpObject->name . " 
+";
 echo "Array: " . $phpArray['email'];
 ?>
